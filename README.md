@@ -1,2 +1,2 @@
-# module-1
-SUT Exploit
+# sut
+capturethefoundry module 1: sut exploit
