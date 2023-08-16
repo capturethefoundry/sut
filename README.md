@@ -5,7 +5,7 @@ _capturethefoundry_ is a platform to practice foundry skills like writing PoCs a
 
 ## SUT Token Exploit, Binance Smart Chain
 
-Hey fellow researchers! Earlier today, my boss told me about an exploit that happened and asked me to reproduce the exploit. I had to rush to watch a movie so I created a test file haphazardly without running and tests and sent it to my boss. During the movie, my boss texted me, saying that my test file could not work. Please help me to fix my file, I think there's about **10 issues** to fix.
+Hey there, researcher! Earlier today, the SUT token was hacked on the Binance Smart Chain and the attacker ran away with 32 BNB (~13k). My boss briefed me about the incident and asked me to reproduce the exploit. I had to rush off to catch a movie so I created a test file haphazardly and sent it to him. During the movie, my boss texted me, saying that my test file could not work. Please help me fix the issues in my file, I think there are about **10 issues** to fix.
 
 ## Objectives
 
@@ -37,7 +37,7 @@ Also, pay attention to your command line as it'll tell you about the issues you 
 
 ## Solution
 
-The solution will be posted in the [solutions](https://github.com/capturethefoundry/sut/tree/main/solution/solution.md) folder. You can also DM me on Twitter if you're stuck and I'll guide you through the procecss.
+The solution will be posted in the [solutions](https://github.com/capturethefoundry/sut/tree/main/solution/solution.md) folder. You can also DM me on Twitter if you're stuck and I'll guide you through the process.
 
 Good luck, researcher!
 
