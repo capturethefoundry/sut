@@ -19,7 +19,10 @@ By the end of this module, you will
 
 - be more confident in debugging errors when writing tests
 - know what errors to look out for in the interface
-- understand why typos can affect the whole compilation process
+- understand how typos can affect the whole compilation process
 - know what parameters to pass into functions
 - know how to write a callback function properly
-- learn to look for missing functionalities 
+
+## Difficulty
+
+Medium
