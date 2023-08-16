@@ -5,7 +5,7 @@ _capturethefoundry_ is a platform to practice foundry skills like writing PoCs a
 
 ## SUT Token Exploit, Binance Smart Chain
 
-Hey there, researcher! Earlier today, the SUT token was hacked on the Binance Smart Chain and the attacker ran away with 32 BNB (~13k). My boss briefed me about the incident and asked me to reproduce the exploit. I had to rush off to catch a movie so I created a test file haphazardly and sent it to him. During the movie, my boss texted me, saying that my test file could not work. Please help me fix the issues in my file, I think there are about **10 issues** to fix.
+Hey there, researcher! Earlier today, the [SUT](https://twitter.com/bulu4477/status/1682983956080377857) token was hacked on the [Binance Smart Chain](https://bscscan.com/tx/0xfa1ece5381b9e2b2b83cb10faefde7632ca411bb38dd6bafe1f1140b1360f6ae) and the attacker ran away with 32 BNB (~8k USD). My boss briefed me about the incident and asked me to reproduce the exploit. I had to rush off to catch a movie so I created a test file haphazardly and sent it to him. During the movie, my boss texted me, saying that my test file could not work. Please help me fix the issues in my file, I think there are **10 issues** to fix.
 
 ## Objectives
 
@@ -23,7 +23,7 @@ I believe the main invocation flow is correct, so please do not change the core 
     forge test --match-path test/SUT.t.sol -vv
 ```
 
-If you have succeeded, you should see this in your console: 
+You should see this in your console once all the issues are fixed: 
 
 ![Sucessful Test](images/testsuccess.png)
 
