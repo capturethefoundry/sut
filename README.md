@@ -31,7 +31,7 @@ You should see this in your console once all the issues are fixed:
 
 ![Sucessful Test](images/testsuccess.png)
 
-### Focus
+## Focus
 
 Debugging / Fixing compiler errors
 
@@ -45,7 +45,7 @@ My console is broken so I can't see anything, but do pay attention to your comma
 
 ## Solution
 
-The solution will be posted in the [solutions](https://github.com/capturethefoundry/sut/tree/main/solution/solution.md) folder. You can also DM me on Twitter if you're stuck and I'll guide you through the process.
+The solution will be posted in the [solutions](https://github.com/capturethefoundry/sut/tree/main/solution/solution.md) folder. You can also DM me on [Twitter](https://twitter.com/cryptostaker22) if you're stuck and I'll guide you through the process.
 
 Good luck, researcher!
 
