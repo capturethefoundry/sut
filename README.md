@@ -9,7 +9,7 @@ Hey fellow researchers! Earlier today, my boss told me about an exploit that hap
 
 ## Objectives
 
-I believe that the main invocation flow is correct, so please do not change the core functionalities (eg using another flashloan provider, using a different swap function). Look out for issues like typos, missing/wrong parameters, wrong function names etc.
+I believe the main invocation flow is correct, so please do not change the core functionalities (eg using another flashloan provider, using a different swap function). Look out for issues like typos, missing/wrong parameters, wrong function names etc.
 
 1. Clone this repository locally (Make sure you have foundry installed)
 2. Run the following command:
@@ -33,7 +33,7 @@ If you have succeeded, you should see this in your console:
 
 Hmmm... I would start with examining at the interface... there are two problems there. Oh, and typos, there's quite a lot of it.  
 
-There's probably nothing wrong with the contract addresses, so I wouldn't advice changing anything there... maybe something around the swapping functionality, or the depositing? Oh, I forgot to mention, I think the exploit uses BNB instead of WBNB... the contract probably needs to accept BNB
+There's probably nothing wrong with the contract addresses, so I wouldn't advice changing anything there... maybe something around the swapping functionality, or the depositing? Oh, I forgot to mention, I think the exploit uses BNB instead of WBNB... the contract probably needs to accept BNB.
 
 Also, pay attention to your command line as it'll tell you about the issues you need to rectify. Fix the issues one at a time and you'll be fine!
 
