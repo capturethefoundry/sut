@@ -37,7 +37,7 @@ Also, pay attention to your command line as it'll tell you about the issues you 
 
 ## Solution
 
-The solution will be posted in the [solutions](https://github.com/capturethefoundry/sut/tree/main/solution) folder. You can also DM me on Twitter if you're stuck and I'll guide you through the procecss.
+The solution will be posted in the [solutions](https://github.com/capturethefoundry/sut/tree/main/solution/solution.md) folder. You can also DM me on Twitter if you're stuck and I'll guide you through the procecss.
 
 Good luck, researcher!
 
