@@ -12,18 +12,16 @@ Hey fellow researchers! Earlier today, my boss told me about an exploit that hap
 I believe the main invocation flow is correct, so please do not change the core functionalities (eg using another flashloan provider, using a different swap function). Look out for issues like typos, missing/wrong parameters, wrong function names etc.
 
 1. Clone this repository locally (Make sure you have foundry installed)
-2. Run the following command:
+2. Run the following command. The command should fail because of several compiler errors. Fix the issues in the test suite. 
 
 ```
     forge build
 ```
-3. Run the following test command. The test should fail.
+3. Run the following test command. The test should pass once everything has been fixed.
 
 ```
     forge test --match-path test/SUT.t.sol -vv
 ```
-
-4. Fix the issues in the test suite and re-run the above command. The test should pass once everything has been fixed.
 
 If you have succeeded, you should see this in your console: 
 
@@ -39,10 +37,9 @@ Also, pay attention to your command line as it'll tell you about the issues you 
 
 ## Solution
 
-The solution will be posted on (to be created). You can also DM me on Twitter if you're stuck and I'll guide you through the procecss.
+The solution will be posted in the [solutions](https://github.com/capturethefoundry/sut/tree/main/solution) folder. You can also DM me on Twitter if you're stuck and I'll guide you through the procecss.
 
 Good luck, researcher!
-
 
 
 
