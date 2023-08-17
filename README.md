@@ -5,7 +5,7 @@ _capturethefoundry_ is a platform to practice foundry skills like writing PoCs a
 
 ## Introduction
 
-Hey there, researcher! I've tried to write a test for the exploit but I can't seem to get it working. I'm quite new to this foundry thing and I don't know what I am doing wrong. My boss is breathing down my neck every minute and I don't want to lose my job. Please help me! I think there are **10 issues** to fix.
+Hey there, researcher! I've tried to write a test for the sut exploit but I can't seem to get it working. I'm quite new to this foundry thing and I don't know what I am doing wrong. My boss is breathing down my neck every minute and I don't want to lose my job. Please help me! I think there are **10 issues** to fix.
 
 ## Objectives
 
