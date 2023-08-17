@@ -3,10 +3,6 @@
 
 _capturethefoundry_ is a platform to practice foundry skills like writing PoCs and debugging. Every module relates to a real life exploit, and a successful completion of the task will mean reproducing an actual hack.
 
-## Context 
-
-The [SUT](https://twitter.com/bulu4477/status/1682983956080377857) token was hacked on the [Binance Smart Chain](https://bscscan.com/tx/0xfa1ece5381b9e2b2b83cb10faefde7632ca411bb38dd6bafe1f1140b1360f6ae) and the attacker ran away with 32 BNB (~8k USD).
-
 ## Introduction
 
 Hey there, researcher! I've tried to write a test for the exploit but I can't seem to get it working. I'm quite new to this foundry thing and I don't know what I am doing wrong. My boss is breathing down my neck every minute and I don't want to lose my job. Please help me! I think there are **10 issues** to fix.
@@ -49,5 +45,7 @@ The solution will be posted in the [solutions](https://github.com/capturethefoun
 
 Good luck, researcher!
 
+## Context 
 
+The [SUT](https://twitter.com/bulu4477/status/1682983956080377857) token was hacked on the [Binance Smart Chain](https://bscscan.com/tx/0xfa1ece5381b9e2b2b83cb10faefde7632ca411bb38dd6bafe1f1140b1360f6ae) and the attacker ran away with 32 BNB (~8k USD).
 
